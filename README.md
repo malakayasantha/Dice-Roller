@@ -1,5 +1,7 @@
 Dice Roller - A Dice Roller is a mobile application game using Kotlin.
 
+Demo Video : https://github.com/malakayasantha/Dice-Roller/assets/94890947/7f3c0393-c85d-4d1e-9fb3-2e22dfdd2880
+
 ----------------------------------The rules of the game-------------------------------
 
 A human player competes against the computer. Both players throw 5 dice at the same time.
